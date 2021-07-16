@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=3776AB&height=300&section=header&text=Chiyoon;%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=3776AB&height=300&section=header&text=var%20Chiyoon:%20String%20&fontSize=70)
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
@@ -19,6 +19,8 @@ Now studying... <br/><br/>
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Unreal Engine-313131?style=flat-square&logo=UnrealEngine&logoColor=white"/></a> &nbsp
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=300&section=footer&text=&fontSize=90)
 
 <!--
 **chiyoon/chiyoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
