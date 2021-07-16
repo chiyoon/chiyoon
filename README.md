@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=3776AB&height=300&section=header&text=var%20Chiyoon:%20String%20&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=3776AB&height=300&section=header&text=fun%20Chiyoon()%20&fontSize=70)
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
