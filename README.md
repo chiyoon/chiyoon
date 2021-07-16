@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=Waving&color=3776AB&height=300&section=header&text=Chiyoon;%20&fontSize=90)
+
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
