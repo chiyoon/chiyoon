@@ -10,6 +10,7 @@ Currently working with ...<br/><br/>
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/AzureDevOps-0078D7?style=flat-square&logo=AzureDevOps&logoColor=white"/></a> &nbsp
 <br/><br/>
 Complete at least one project <br/><br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
